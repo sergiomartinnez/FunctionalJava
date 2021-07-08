@@ -1,0 +1,6 @@
+[submodule "Api-funcional/job-search"]
+	path = Api-funcional/job-search
+	url = git@github.com:sergiomartinnez/FunctionalJava.git
+[submodule "JavaSE-Functional-platzi"]
+	path = JavaSE-Functional-platzi
+	url = git@github.com:sergiomartinnez/FunctionalJava.git
